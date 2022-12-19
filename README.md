@@ -10,20 +10,20 @@
 
 ### 命令行使用
 
-'''bash
+```bash
 # 检测图片保存输出
 $ python faced --input imgs/demo.png --save
-'''
+```
 
-'''bash
+```bash
 # 检测图片保存输出
 $ python faced --input imgs/demo.mp4 --save
-'''
+```
 
-'''bash
+```bash
 # 摄像头在线检测
 $ python faced --input webcam
-'''
+```
 
 ### bug
 
