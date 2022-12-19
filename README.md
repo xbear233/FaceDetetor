@@ -10,6 +10,8 @@
 
 ### 命令行使用
 
+进入bin目录
+
 ```bash
 # 检测图片保存输出
 $ python faced --input imgs/demo.png --save
